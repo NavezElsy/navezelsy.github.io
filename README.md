@@ -1,4 +1,4 @@
-# navezelsy.github.io
+# HTML Tecnolochicas, Pagina de Pandas
 Este es el primer proyecto creado en la sesion de Tecnolochicas PRO
 
 En el cual empezamos a ver desde lo mas basico
