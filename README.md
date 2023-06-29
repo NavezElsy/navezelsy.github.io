@@ -8,3 +8,5 @@ En el cual empezamos a ver desde lo mas basico
 - Enlaces Externos
 - .Casillas de verificacion
 - y más cosas de diñeso
+
+Aquí puedes visualizar mí proyecto terminado: [navezelsy.github.io](https://deluxe-cannoli-134473.netlify.app/).
